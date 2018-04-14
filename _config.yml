@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Java things in Python"
+title                    : "Template for github pages"
 title_separator          : "-"
 name                     : "Anand Rajneesh"
 description              : ""
